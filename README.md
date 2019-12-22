@@ -4,7 +4,7 @@ This repository is the home of a simple blockchain proof of concept written in P
 
 Also, I wrote an article on this, but in french.
 
-You can read it here (link to come).
+You can read it [here](https://blog.kharec.info/post/une-blockchain-simple-en-python/).
 
 ## Licence & Copyright
 This software is copyright (c) 2019 by Sandro CAZZANIGA.
