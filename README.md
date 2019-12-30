@@ -7,6 +7,6 @@ Also, I wrote an article on this, but in french.
 You can read it here (link to come).
 
 ## Licence & Copyright
-This software is copyright (c) 2019 by Sandro CAZZANIGA.
+This software is copyright (c) 2020 by Sandro CAZZANIGA.
 
 This is free software, you can use/redistribute it and/or modify it under the GNU GPLv3 terms.
